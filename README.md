@@ -28,7 +28,7 @@ npm install
 npm run start
 
 Commit the application to your repository
-
+cd ..
 git add .
 git commit -m 'created react app'
 git push
