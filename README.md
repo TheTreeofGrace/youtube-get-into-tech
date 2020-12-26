@@ -17,3 +17,19 @@ Helpful guide here: https://docs.github.com/en/free-pro-team@latest/github/creat
 Get started with this react node js tutorial and commit it to your github repo.
 https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
 
+## Help:
+You might need to install nodejs on your machine. Visit here: https://nodejs.org/en/
+
+If nodejs is installed then run the following command: 
+
+npx create-react-app my-app
+cd my-app
+npm install
+npm run start
+
+Commit the application to your repository
+
+git add .
+git commit -m 'created react app'
+git push
+
