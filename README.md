@@ -22,14 +22,14 @@ You might need to install nodejs on your machine. Visit here: https://nodejs.org
 
 If nodejs is installed then run the following command: 
 
-npx create-react-app my-app
+`npx create-react-app my-app
 cd my-app
 npm install
-npm run start
+npm run start`
 
 Commit the application to your repository
-cd ..
+`cd ..
 git add .
 git commit -m 'created react app'
-git push
+git push`
 
