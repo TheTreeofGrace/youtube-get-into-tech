@@ -16,4 +16,5 @@ Helpful guide here: https://docs.github.com/en/free-pro-team@latest/github/creat
 ## Challenge: 
 Get started with this react node js tutorial and commit it to your github repo.
 https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
+
 Help on video-1-solution branch: https://github.com/TheTreeofGrace/youtube-get-into-tech/tree/video-1-solution
